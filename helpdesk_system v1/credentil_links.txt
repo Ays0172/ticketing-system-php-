@@ -1,0 +1,73 @@
+=========================
+🚀 SYSTEM ACCESS URLS
+=========================
+
+📥 Login Page:
+http://localhost/helpdesk_system/
+
+📤 Logout:
+http://localhost/helpdesk_system/logout.php
+
+📊 Admin Dashboard:
+http://localhost/helpdesk_system/admin/dashboard.php
+
+🧰 Support Staff Dashboard:
+http://localhost/helpdesk_system/support/dashboard.php
+
+🙋 User Dashboard:
+http://localhost/helpdesk_system/user/dashboard.php
+
+➕ Raise New Task:
+http://localhost/helpdesk_system/user/new_task.php
+
+
+
+=========================
+👤 USER ACCOUNTS
+=========================
+
+--- ADMINISTRATORS ---
+User ID: USI001
+Password: admin123
+Role: Administrator
+
+User ID: USI002
+Password: admin123
+Role: Administrator
+
+--- SUPPORT STAFF ---
+User ID: USI003
+Password: support123
+Role: Support Staff
+
+User ID: USI004
+Password: support123
+Role: Support Staff
+
+User ID: USI005
+Password: support123
+Role: Support Staff
+
+--- USERS ---
+User ID: USI006
+Password: user123
+Role: User
+
+User ID: USI007
+Password: user123
+Role: User
+
+User ID: USI008
+Password: user123
+Role: User
+
+
+
+=========================
+🗃️ DATABASE INFO
+=========================
+
+Database Name: USI_helpdesk
+DB Host: localhost
+DB User: root
+DB Password: (leave blank)
